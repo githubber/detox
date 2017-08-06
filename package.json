@@ -1,4 +1,22 @@
 {
-  "name": "Detox",
-  "version": "1.0.0"
+    "name": "Detox",
+    "description": "Detox is a beautiful, modern Ghost theme.",
+    "demo": "http://www.jrdnbwmn.com/blueberry/detox/lunch/",
+    "version": "2.0.",
+    "engines": {
+        "ghost": ">=1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/detox.png",
+        "mobile": "assets/detox-ghost-theme.png"
+    },
+    "author": {
+        "name": "Jordan Bowman",
+        "email": "desk@jrdnbwmn.com",
+        "url": "http://www.jrdnbwmn.com/"
+    },
+    "config": {
+        "posts_per_page": 25
+    }
 }
