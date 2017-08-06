@@ -1,8 +1,8 @@
 {
-    "name": "Detox",
+    "name": "detox",
     "description": "Detox is a beautiful, modern Ghost theme.",
     "demo": "http://www.jrdnbwmn.com/blueberry/detox/lunch/",
-    "version": "2.0.",
+    "version": "2.0.0",
     "engines": {
         "ghost": ">=1.0.0"
     },
